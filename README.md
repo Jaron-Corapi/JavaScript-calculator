@@ -1,2 +1,2 @@
 # JavaScript-calculator
-A calculator built with Javascript and bootstrap
+A calculator built with Javascript and CSS

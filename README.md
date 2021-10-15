@@ -1,2 +1,2 @@
-# JavaScript-calculator
-A calculator built with Javascript and bootstrap
+# [JavaScript-calculator](https://jaron-corapi.github.io/JavaScript-calculator/JS-Calculator.html)
+A calculator built with Javascript and CSS
